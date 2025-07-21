@@ -1,9 +1,6 @@
 # 🤖 Live Chatbot using Python and NLTK
 
 A smart chatbot project built using Python and the Natural Language Toolkit (NLTK). This project demonstrates basic NLP techniques including tokenization, normalization, and response generation using rule-based logic.
-
-![Live CHATBOT](https://user-images.githubusercontent.com/28294942/134822533-35c1e851-1dde-44d6-9113-39dff062239f.gif)
-
 ## 📌 Overview
 
 This chatbot simulates a human-like conversation using rule-based logic and natural language processing. It's ideal for students and developers who want to understand how NLP works and build intelligent systems using Python.
